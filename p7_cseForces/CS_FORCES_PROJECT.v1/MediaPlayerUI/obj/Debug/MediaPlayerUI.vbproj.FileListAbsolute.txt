@@ -1,0 +1,122 @@
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.Cache
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+G:\VS Project\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+D:\RJ Code Advance\Test Projects\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.Cache
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\Guna.UI.dll
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\Guna.UI.pdb
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl1.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CopyComplete
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl2.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form4.resources
+C:\Users\Akuaku\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.setti.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form4.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.PDFview.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.setti.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl1.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl2.resources
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CopyComplete
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form5.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbprojAssemblyReference.cache
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form4.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form5.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.PDFview.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.setti.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl1.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl2.resources
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CoreCompileInputs.cache
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CopyComplete
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Desktop\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.AssemblyReference.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.ResolveComReference.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form4.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form5.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.PDFview.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.setti.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl1.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.UserControl2.resources
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.GenerateResource.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CoreCompileInputs.cache
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akuaku\Downloads\My Portfolio\My Portfolio\CS_FORCES_PROJECT.v1\MediaPlayerUI\obj\Debug\MediaPlayerUI.vbproj.CopyComplete
